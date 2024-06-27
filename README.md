@@ -1,2 +1,2 @@
 #dice game
-html/css/react.js/
+=> dice game with react js
